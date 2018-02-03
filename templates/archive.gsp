@@ -3,25 +3,25 @@
 	<%include 'menu.gsp'%>
 	
 	<div class="page-header">
-		<h1>Blog Archive</h1>
+		<h1>Blog Archiv</h1>
 	</div>
 	
 	<!--<ul>-->
 		<%def last_month=null;%>
 		<%published_posts.each {post ->%>
 			<%if (last_month) {%>
-				<%if (new java.text.SimpleDateFormat("MMMM yyyy", Locale.ENGLISH).format(post.date) != last_month) {%>
+				<%if (new java.text.SimpleDateFormat("MMMM yyyy", Locale.GERMAN).format(post.date) != last_month) {%>
 					</ul>
-					<h4>${new java.text.SimpleDateFormat("MMMM yyyy", Locale.ENGLISH).format(post.date)}</h4>
+					<h4>${new java.text.SimpleDateFormat("MMMM yyyy", Locale.GERMAN).format(post.date)}</h4>
 					<ul>
 				<%}%>
 			<% } else { %>
-				<h4>${new java.text.SimpleDateFormat("MMMM yyyy", Locale.ENGLISH).format(post.date)}</h4>
+				<h4>${new java.text.SimpleDateFormat("MMMM yyyy", Locale.GERMAN).format(post.date)}</h4>
 				<ul>
 			<% }%>
 			
 			<li>${post.date.format("dd")} - <a href="${content.rootpath}${post.uri}">${post.title}</a></li>
-			<%last_month = new java.text.SimpleDateFormat("MMMM yyyy", Locale.ENGLISH).format(post.date)%>
+			<%last_month = new java.text.SimpleDateFormat("MMMM yyyy", Locale.GERMAN).format(post.date)%>
 		<%}%>
 	</ul>
 	

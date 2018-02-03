@@ -2,28 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-    	<loc>http://jbake.org/about.html</loc>
-    	<lastmod>2013-09-24</lastmod>
+    	<loc>https://karfunkel.github.io/suedafrika//about.html</loc>
+    	<lastmod>2013-01-29</lastmod>
     </url>
 
     <url>
-    	<loc>http://jbake.org/blog/2013/fourth-post.html</loc>
-    	<lastmod>2013-10-17</lastmod>
+    	<loc>https://karfunkel.github.io/suedafrika//31-01-2018.html</loc>
+    	<lastmod>2018-01-31</lastmod>
     </url>
 
     <url>
-    	<loc>http://jbake.org/blog/2013/third-post.html</loc>
-    	<lastmod>2013-09-26</lastmod>
+    	<loc>https://karfunkel.github.io/suedafrika//30-01-2018.html</loc>
+    	<lastmod>2018-01-30</lastmod>
     </url>
 
     <url>
-    	<loc>http://jbake.org/blog/2013/second-post.html</loc>
-    	<lastmod>2013-08-25</lastmod>
-    </url>
-
-    <url>
-    	<loc>http://jbake.org/blog/2013/first-post.html</loc>
-    	<lastmod>2013-07-24</lastmod>
+    	<loc>https://karfunkel.github.io/suedafrika//29-01-2018.html</loc>
+    	<lastmod>2018-01-29</lastmod>
     </url>
 
 </urlset>

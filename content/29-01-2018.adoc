@@ -1,0 +1,11 @@
+= Stuttgart - Addis Abeba
+Tina Klein
+2018-01-29
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: blog, asciidoc
+:idprefix:
+
+Es hat Turbulenzen
+... ich habe etwas Angst...
+

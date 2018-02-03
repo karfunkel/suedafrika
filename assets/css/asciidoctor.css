@@ -190,7 +190,7 @@ p a > code:hover { color: #561309; }
 #header #revnumber { text-transform: capitalize; }
 #header br { display: none; }
 #header br + span { padding-left: 3px; }
-#header br + span:before { content: "\2013 \0020"; }
+#header br + span:before { content: "\S&uuml;dafrika 2018 \0020"; }
 #header br + span.author { padding-left: 0; }
 #header br + span.author:before { content: ", "; }
 
