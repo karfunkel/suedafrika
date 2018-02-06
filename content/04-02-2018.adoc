@@ -2,18 +2,28 @@
 Tina Klein
 2018-02-04
 :jbake-type: post
-:jbake-status: draft
+:jbake-status: published
 :jbake-tags: blog, asciidoc
 :idprefix:
 
-Seit dem Morgen hat Sascha Durchfall. Das ist ziemlich unpraktisch, weil wir unterwegs nach Port Elizabeth sind.
-Wir wollten zum Island Vibe PE. Dank falscher Navi-eingabe landen wir im Island Vibe Jeffreys Bay.
-Also wieder zurück, ausgerechnet jetzt 2 Stunden Umweg!
-Um 17.00 kommen wir endlich an. Island Vibe PE ist sehr schön, sauber, mit Fernseher und eigenem riesigen Bad.
-Es gibt eine zentrale Lounge mit Whirrlpool und draussen einen Swimmingpool. Leider kann beides wegen water
-restrictions nicht genutzt werden.
-Am Abend und in der Nacht erbricht Sascha nun auch noch und es zeichnet sich ab, dass wir unseren Zeitplan nicht einhalten können
-werden. am nächsten Tag wollten wir in Knysna sein und vorher hier noch den Addo Elephant park mitnehmen.
+Seit dem Morgen hat Sascha Durchfall. Das ist ziemlich unpraktisch, weil wir unterwegs nach
+Port Elizabeth sind. Wir wollten zum Island Vibe PE. +
+Dank falscher Navi-Eingabe landeten wir im Island Vibe Jeffreys Bay. Also wieder zurück,
+ausgerechnet jetzt 2 Stunden Umweg!
+
+image::20180204_154936.jpg[]
+
+Um 17.00 Uhr kommen wir endlich an. Island Vibe PE ist sehr schön, sauber, mit Fernseher und eigenem
+riesigen Bad. Es gibt eine zentrale Lounge mit Whirlpool und draussen einen Swimmingpool.
+Leider kann beides wegen Wasserknappheit nicht genutzt werden.
+
+image::20180204_172143.jpg[]
+image::20180204_173146.jpg[]
+image::20180206_083300.jpg[]
+
+Am Abend und in der Nacht erbricht Sascha nun auch noch und es zeichnet sich ab, dass wir unseren
+Zeitplan nicht einhalten können werden. Am nächsten Tag wollten wir in Knysna sein und vorher hier
+noch den Addo Elephant Park mitnehmen.
 
 
 
